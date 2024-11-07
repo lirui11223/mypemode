@@ -4,6 +4,8 @@
 
 mypemode是我们在my_picture的模块，这个模块可以用此模块来让你自己搭建属于自己的修图应用，这个模块也是基于Python进行搭建的，希望大家支持一下，谢谢！
 
+相关语法请打开此链接查看:https://www.yuque.com/denglidedengdeng/fzpeo6/cydv4zxbr6mynwfi?singleDoc
+
 # 二.准备工作
 
 首先你需要安装Python，安装方式自查，然后通过下面两条命令安装easygui和pillow模块
